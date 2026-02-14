@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アメイジングハッピーハロウィンナイト",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-14T08:53:31.443527Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アメイジングハッピーハロウィンナイト",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_アメイジングハッピーハロウィンナイト_syudou.txt"
+    }
+  ]
+}
